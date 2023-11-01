@@ -1,4 +1,4 @@
-# DE300 Project Group7
+# Heart Disease - Data Engineering
 
 ## Overview
 This code creates a postgres database and database table schema for a [heart disease data set](https://archive.ics.uci.edu/ml/datasets/heart+disease). We extract the data from the `hearts.csv` file, clean, impute, and transform it, and load it into the database tables. We preform exploratory data analysis to look at the spread, statistical measures, and outliers of numerical features.
